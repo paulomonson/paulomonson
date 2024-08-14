@@ -2,7 +2,7 @@
 
 I'm a researcher and programmer specializing in the development of algorithms for health and industrial applications. PhD student in Electrical Engineering - EESC/USP | Master in Electrical Engineering - FEB/UNESP.
 
-![My Skills](https://skillicons.dev/icons?i=python,matlab,c,&theme=light)
+![My Skills](https://skillicons.dev/icons?i=python,matlab,c,ruby&theme=light)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulomonson&layout=compact)
 
